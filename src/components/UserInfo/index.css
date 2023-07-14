@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.user {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 22%;
+}
+
+.user-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.heading {
+  color: #12022f;
+  font-size: 25px;
+}
+
+.pera {
+  color: #616e7c;
+  font-weight: bold;
+}
